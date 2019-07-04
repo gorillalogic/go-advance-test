@@ -75,7 +75,7 @@ type Person struct {
 **Plus**
 > Host your implementation on any cloud provider service so we can test your API live.
 > Create unit tests for your API.
-> Use a [Redis](https://redis.io/) server to support cache to in your API.
+> Use a [Redis](https://redis.io/) server to support cache responses in your API.
 > Store the **Person** entities in a NoSQL database (e.g. MongoDB).
 > Support responding in XML format in addition to JSON.
 > Create a "living HTML documentation" for your API. Consider using [https://swagger.io/](https://swagger.io/)
